@@ -1,7 +1,6 @@
 ### Hi there, I'm <a href="https://www.bijayyadav.com.np/" target="_blank">Bijay Yadav </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I’m currently working as a Web Team Lead @ [Whitehat Agency](https://www.whitehatagency.com.au/).
-- ⚡ I am the founder of [WPEntire](https://www.wpentire.com) and Co-Founder of [TemplateSell](https://www.templatesell.com).
 - 💬 Ask me about WordPress themes development and theme guidelines.
 - 📫 How to reach me: bijay2045@gmail.com
 - 😄 Pronouns: He/His
