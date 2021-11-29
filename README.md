@@ -1,6 +1,7 @@
 ### Hi there, I'm <a href="https://www.bijayyadav.com.np/" target="_blank">Bijay Yadav </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I’m currently working as a Web Team Lead @ [Whitehat Agency](https://www.whitehatagency.com.au/).
+- ⚡ I review [WordPress themes](https://themes.trac.wordpress.org/query?owner=bijayyadav&status=approved&status=closed&status=new&status=reopened&status=reviewing) when I am free.
 - 💬 Ask me about WordPress themes development and theme guidelines.
 - 📫 How to reach me: bijay2045@gmail.com
 - 😄 Pronouns: He/His
